@@ -37,7 +37,7 @@ To identify key factors contributing to employee attrition and provide actionabl
 
 ## 🔗 Live Dashboard
 
-*(Tableau Public link will be added here)*
+https://drive.google.com/file/d/1qylHl-9_wPgRIKn2uHUN7t5j1YSluefM/view?usp=sharing
 
 ## 👤 Author
 
